@@ -1,0 +1,10 @@
+Package: com.memopot.logfilter
+Name: logfilter
+Depends:
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: eswick ondeviceconsole add filter
+Maintainer: jcyangzh
+Author: jcyangzh
+Section: System
+Tag: role::hacker
